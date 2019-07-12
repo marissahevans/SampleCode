@@ -1,20 +1,18 @@
 # SampleCode
 Sample scripts in Matlab that perform a variety of functions
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Assignment 1
-  Plotting surrogate data
+.zip files contain all data files needed to run the scripts, to view code in gitHub open the .m files. 
 
-Assignment 2
- Data recording
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Assignment 3
- Data analysis
+1. Plotting caffine data
 
-Assignment 4
- Signal processing
+2. Data recording
 
-Assignment 5
- Machine learning GUI
+3. Data analysis
 
-Assignemnt 6
+4. Signal processing
+
+5. Machine learning GUI
+
+5. Visual Change Detection data indexing and analysis
